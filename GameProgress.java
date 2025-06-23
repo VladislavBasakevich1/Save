@@ -1,4 +1,4 @@
-package JavaCore_2_Files;
+package Java_2_Files;
 
 import java.io.Serializable;
 
